@@ -1,4 +1,4 @@
-This is a Python (pandas, Dash) interactice CV/Resume.
+This is a Python (pandas, Dash) interactive CV/Resume.
 
 Deployed here:
 https://potato42.pythonanywhere.com
